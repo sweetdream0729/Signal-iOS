@@ -6,13 +6,11 @@
 	<string>NSFileProtectionComplete</string>
 	<key>com.apple.security.application-groups</key>
 	<array>
-		<string>group.org.whispersystems.signal.group</string>
+		<string>group.com.satintech.cyberchat.ios</string>
 	</array>
-	<key>com.apple.developer.usernotifications.filtering</key>
-	<true/>
 	<key>keychain-access-groups</key>
 	<array>
-		<string>$(AppIdentifierPrefix)org.whispersystems.signal</string>
+		<string>$(AppIdentifierPrefix)com.satintech.cyberchatios.NotificationServiceExtension</string>
 	</array>
 </dict>
 </plist>

@@ -4,10 +4,16 @@
 <dict>
 	<key>BuildDetails</key>
 	<dict>
+		<key>DateTime</key>
+		<string>Thu Jun 10 01:13:08 UTC 2021</string>
 		<key>OSXVersion</key>
-		<string>11.3.1</string>
+		<string>10.15.7</string>
+		<key>Timestamp</key>
+		<string>1623287588</string>
 		<key>WebRTCCommit</key>
 		<string>eaddaefe80ccb973f3f5aaa0548f9a8087df68d9 Production build of v2.10.1</string>
+		<key>XCodeVersion</key>
+		<string>1200.1240</string>
 	</dict>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
@@ -28,7 +34,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>5.14.0</string>
+	<string>$(MARKETING_VERSION)</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleURLTypes</key>
@@ -45,7 +51,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>5.14.0.36</string>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
 	<key>LOGS_EMAIL</key>
